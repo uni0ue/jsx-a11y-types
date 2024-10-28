@@ -7,7 +7,7 @@ A TypeScript type definitions package that enforces accessibility requirements o
 - Defines accessibility requirements for HTML elements like `<button>`, `<img>`, `<a>`, `<input>`, `<textarea>`, `<select>`, `<iframe>`, `<table>`, `<th>`, `<audio>`, and `<video>`.
 - Enforces required attributes (e.g., `alt` for `<img>`, `title` for `<iframe>`).
 - Restricts invalid attribute combinations through TypeScript union types.
-- Aligns with [WCAG 2.2 AA](https://www.w3.org/WAI/WCAG22/quickref/) and [Axe accessibility rules](https://dequeuniversity.com/rules/axe/4.1/).
+- Aligns with [WCAG 2.1 AA](https://www.w3.org/TR/WCAG21/) and [Axe accessibility rules](https://dequeuniversity.com/rules/axe/4.1/).
 
 ## Installation
 
