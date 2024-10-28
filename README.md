@@ -1,6 +1,6 @@
 # JSX Accessibility Types
 
-A TypeScript type definitions package that enforces accessibility requirements on common HTML elements in JSX, based on WCAG 2.2 AA standards and Axe accessibility rules. This package helps developers ensure their components meet accessibility guidelines by requiring specific properties and restricting invalid attribute combinations.
+A TypeScript type definitions package that enforces accessibility requirements on common HTML elements in JSX, based on WCAG 2.1 AA standards. This package helps developers ensure their components meet accessibility guidelines by requiring specific properties and restricting invalid attribute combinations.
 
 ## Features
 
